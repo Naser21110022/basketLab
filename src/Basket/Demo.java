@@ -8,5 +8,6 @@ public class Demo {
         b.add(2.3);
         b.add(2.7);
         System.out.print(b.toString());
+        b.add(8.0);
     }
 }
