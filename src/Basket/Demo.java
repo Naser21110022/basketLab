@@ -7,6 +7,6 @@ public class Demo {
         Basket<Double, Double> b = new Basket<>();
         b.add(2.3);
         b.add(2.7);
-
+        b.add(5.0);
     }
 }
