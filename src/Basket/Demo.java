@@ -7,7 +7,6 @@ public class Demo {
         Basket<Double, Double> b = new Basket<>();
         b.add(2.3);
         b.add(2.7);
-b.add(3.0);
-      b.add(7.0);
+        System.out.print(b.toString());
     }
 }
